@@ -1,0 +1,11 @@
+1 - 
+Boolean: Valor Default = False, Tamanho = 1-bit (não é preciso), Faixa de Valores = 0 ou 1 (True ou False);
+Char: Valor Default = '\u0000', Tamanho = 16-bit, Faixa de Valores = Entre \u0000 e \uffff' ou (65,535);
+Byte: Valor Default = 0, Tamanho = 8-bit, Faixa de Valores = Entre -128 e +127;
+Short: Valor Default = 0, Tamanho = 16-bit, Faixa de Valores = -32.768 e +32.767;
+Int: Valor Default = 0, Tamanho = 32-bit, Faixa de Valores = -2³¹ e 2³¹-1; 
+Long: Valor Default = 0L, Tamanho = 64-bit, Faixa de Valores = -2 elevado a 63 e 2 elevado a 63 - 1;
+Float: Valor Defaut = 0.0f, Tamanho = 32-bit, Faixa de Valores = Indefinido/Ilimitada;
+Double: Valor Default = 0.0d, Tamanho = 64-bit, Faixa de Valores = Indefinido/Ilimitada;
+
+2 - 
