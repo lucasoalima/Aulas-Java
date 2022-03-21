@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Calendario",
+            "request": "launch",
+            "mainClass": "Calendario",
+            "projectName": "AulasJava_fcb35744"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ExCalculadora",
+            "request": "launch",
+            "mainClass": "EX_2.ExCalculadora",
+            "projectName": "AulasJava_fcb35744"
+        }
+    ]
+}
