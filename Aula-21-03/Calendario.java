@@ -78,6 +78,7 @@ public class Calendario {
             nomeMes = "Dezembro";
             break;
         }
+        return nomeMes;
     }
 
     public static void main(String[] args) {

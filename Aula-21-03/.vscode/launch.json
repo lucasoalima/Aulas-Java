@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Sorteio",
+            "request": "launch",
+            "mainClass": "Sorteio",
+            "projectName": "Aula-21-03_dd967df8"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Calendario",
+            "request": "launch",
+            "mainClass": "Calendario",
+            "projectName": "Aula-21-03_dd967df8"
+        }
+    ]
+}
