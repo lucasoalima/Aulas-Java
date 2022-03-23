@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch RecursiveFibonacci",
+            "request": "launch",
+            "mainClass": "RecursiveFibonacci",
+            "projectName": "Java_32f1b390"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "Java_32f1b390"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExFibonacci",
+            "request": "launch",
+            "mainClass": "ExFibonacci",
+            "projectName": "Java_32f1b390"
+        },
+        {
+            "type": "java",
             "name": "Launch ExFatorial",
             "request": "launch",
             "mainClass": "ExFatorial",
