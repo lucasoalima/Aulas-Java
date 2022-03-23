@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ExFatorial",
+            "request": "launch",
+            "mainClass": "ExFatorial",
+            "projectName": "Java_32f1b390"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Calendario",
             "request": "launch",
             "mainClass": "Calendario",
