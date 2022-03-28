@@ -30,7 +30,9 @@ public static void main(String[] args) {
     teclado = new Scanner(System.in);
     do{
         num = lerNumero();
+        if( num > 0){
         System.out.println(verificarParImpar(num));
+        }
         }while(num >= 0);
         teclado.close(); 
     }

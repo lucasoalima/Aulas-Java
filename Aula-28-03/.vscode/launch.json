@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Tabuada",
+            "request": "launch",
+            "mainClass": "Tabuada",
+            "projectName": "Aula-28-03_ba10108"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ParImpar",
             "request": "launch",
             "mainClass": "ParImpar",
