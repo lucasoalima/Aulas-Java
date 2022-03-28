@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ParImpar",
+            "request": "launch",
+            "mainClass": "ParImpar",
+            "projectName": "Aula-28-03_ba10108"
+        }
+    ]
+}
