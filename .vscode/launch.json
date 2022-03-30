@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch jogoSorteio",
+            "request": "launch",
+            "mainClass": "jogoSorteio",
+            "projectName": "Java_32f1b390"
+        },
+        {
+            "type": "java",
             "name": "Launch RecursiveFibonacci",
             "request": "launch",
             "mainClass": "RecursiveFibonacci",
