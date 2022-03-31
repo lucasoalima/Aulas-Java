@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch BuscaNumero",
+            "request": "launch",
+            "mainClass": "BuscaNumero",
+            "projectName": "Java_32f1b390"
+        },
+        {
+            "type": "java",
+            "name": "Launch exLoteria",
+            "request": "launch",
+            "mainClass": "exLoteria",
+            "projectName": "Java_32f1b390"
+        },
+        {
+            "type": "java",
             "name": "Launch jogoSorteio",
             "request": "launch",
             "mainClass": "jogoSorteio",

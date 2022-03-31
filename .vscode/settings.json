@@ -1,7 +1,9 @@
 {
     "java.project.sourcePaths": [
+        "EX_7",
+        "EX_6",
         "EX_4",
         "EX_3",
-        "EX_6"
+        "Aula-28-03"
     ]
 }
