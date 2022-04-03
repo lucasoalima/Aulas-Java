@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Polinomial",
+            "request": "launch",
+            "mainClass": "Polinomial",
+            "projectName": "Java_32f1b390"
+        },
+        {
+            "type": "java",
+            "name": "Launch exPolinomial",
+            "request": "launch",
+            "mainClass": "exPolinomial",
+            "projectName": "Java_32f1b390"
+        },
+        {
+            "type": "java",
             "name": "Launch BuscaNumero",
             "request": "launch",
             "mainClass": "BuscaNumero",

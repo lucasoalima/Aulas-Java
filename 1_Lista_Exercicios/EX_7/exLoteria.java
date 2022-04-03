@@ -32,6 +32,7 @@ public class exLoteria {
         int numDigitado[] = new int[6];
 
         for(int i = 0; i < numeroGerado.length; i++){
+            // System.out.println(numeroGerado[i]);
             System.out.println("##########################################");
             System.out.println("LOTERIA - ESCOLHA O " + (i+1) + "º NUMERO DE 1 A 60: ");
             System.out.println("##########################################");
@@ -53,5 +54,17 @@ public class exLoteria {
         Arrays.sort(numDigitado);
         System.out.println("NUMEROS ESCOLHIDOS:"+ Arrays.toString(numDigitado));
         System.out.println("VOCÊ ACERTOU " + numCertos + " NUMEROS");
+        if(numCertos < 4){
+            System.out.println("INFELIZMENTE, VOCÊ NÃO GANHOU NADA.");
+        }
+        else if(numCertos == 4){
+            System.out.println("VOCÊ GANHOU UM PREMIO DE: R$ 50.000,00");
+        }
+        else if(numCertos == 5){
+            System.out.println("VOCÊ GANHOU UM PREMIO DE: R$ 250.000,00");
+        }
+        else if(numCertos == 6){
+            System.out.println("VOCÊ GANHOU UM PREMIO DE: R$ 1.000.000,00");
+        }
     }
 }
