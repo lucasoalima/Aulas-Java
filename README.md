@@ -29,7 +29,7 @@ In this folder you can find a calculator project and a genius game.
 
 
 <p align="center">
-   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
+   <a href="https://developer.oracle.com/br/java/">
       <img src="images/java.svg" alt="Java" width="30" height="30"/>
    </a>
    <a href="https://git-scm.com/doc/">
