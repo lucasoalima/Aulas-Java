@@ -1,82 +1,32 @@
-
-<!-- > <div align="center">
-  <a href="https://github.com">
-    <img src="images/logo.svg" alt="Logo" width="160" height="80">
-  </a> -->
-
-  <h1 align="center">
-    Java and OOP - University Positivo
-  </h1>
-
-</div>
-
-<!--  <h3 align="center">
-
-
-</h3>  -->
-
----
-
-## 📝 About:
-
-This is my repository used for college projects. **Subject**: Software Development
-
-In this folder you can find a calculator project and a genius game.
-
----
-
-## 💻 Languages and 🛠 Tools:
-
+<h1 align="center">Aulas Java — Exercises & Mini-projects</h1>
 
 <p align="center">
-   <a href="https://developer.oracle.com/br/java/">
-      <img src="images/java.svg" alt="Java" width="30" height="30"/>
-   </a>
-   <a href="https://git-scm.com/doc/">
-      <img src="images/git.svg" alt="git" width="30" height="30"/>
-   </a>
-   <a href="https://github.com/">
-      <img src="images/github.svg" alt="Github" width="30" height="30"/>
-   </a> 
+  Java coursework: object-oriented programming exercises and small practice projects,
+  including a <b>calculator</b> and a <b>memory game</b>.
 </p>
 
+<p align="center"><img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java"></p>
 
-## 🚧 Projects in this repository:
-<ul>
-  <li>
-    Genius Game
-  </li>
-  <li>
-    Calculator
-  </li>
- </ul>
-<!-- ---
+## 📝 About
+Class materials and exercises from my Java / OOP lessons, grouped by date and topic.
 
-<h1>🤖 Preview </h1>
-<img src=" -->
+## ✨ Highlights
+- **Calculadora** — a simple calculator.
+- **Jogo da Memória** — a memory-matching game.
+- **Lista de Exercícios** — assorted OOP exercises.
 
-<!-- ## Como Baixar
+## 🚀 How to run
+Open a given exercise/project folder in your IDE (IntelliJ/Eclipse/VS Code) and run its
+`main` class, or compile with `javac` and run with `java`.
 
-```bash
-
-# Instruções
-
-$ Comandos
-
-
-``` -->
+## 📁 Structure
+```
+Aulas-Java/
+├── calculadora/            # calculator
+├── Jogo Da Memória/        # memory game
+├── 1_Lista_Exercicios/     # exercise list
+├── Aula-21-03/ , Aula-28-03/  # class sessions
+```
 
 ---
-
-<h3 align="center">
-
-  Lucas Soares de Lima
-<br/>
-
-  <a align="center">
-   
-   [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/lucasoalima/)
-&nbsp;
-  [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/lucasoalima)
-  </a>
-</h3>
+<p align="center"><a href="https://www.linkedin.com/in/lucasoalima/">LinkedIn</a> &middot; <a href="https://github.com/lucasoalima">GitHub</a></p>
