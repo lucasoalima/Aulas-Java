@@ -1,31 +1,36 @@
 <h1 align="center">Aulas Java — Exercises & Mini-projects</h1>
 
 <p align="center">
-  Java coursework: object-oriented programming exercises and small practice projects,
-  including a <b>calculator</b> and a <b>memory game</b>.
+  Java / OOP coursework: console exercises plus two small <b>Java Swing</b> desktop apps
+  (a calculator and a memory game).
 </p>
 
 <p align="center"><img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java"></p>
 
-## 📝 About
-Class materials and exercises from my Java / OOP lessons, grouped by date and topic.
+## 📚 What's inside
 
-## ✨ Highlights
-- **Calculadora** — a simple calculator.
-- **Jogo da Memória** — a memory-matching game.
-- **Lista de Exercícios** — assorted OOP exercises.
+### Mini-projects (Java Swing)
+- **`calculadora/`** — GUI calculator. Logic split into `Soma`, `Subtracao`,
+  `Multiplicacao`, `Divisao` (implementing an `Operacao` abstraction), with a Swing UI
+  (`FrameCalculadora`, `ActionCalculadora`).
+- **`Jogo Da Memória/`** — a memory-matching game with a Swing board (`FrmJogoMemoria`,
+  `BtnPeca`, `Botoes`) and game logic (`JogoMemoria`).
+
+### Exercise list (`1_Lista_Exercicios/`)
+- **ExCalculadora** — basic calculator · **ExFatorial** — factorial ·
+  **ExFibonacci** — Fibonacci sequence · **jogoSorteio** — random draw game ·
+  **exLoteria** — lottery-style draw.
+
+### Class sessions
+- **`Aula-21-03/`** — `Calendario`, `Sorteio` · **`Aula-28-03/`** — `BuscaNumero`,
+  `ParImpar`, `Tabuada`.
 
 ## 🚀 How to run
-Open a given exercise/project folder in your IDE (IntelliJ/Eclipse/VS Code) and run its
-`main` class, or compile with `javac` and run with `java`.
-
-## 📁 Structure
-```
-Aulas-Java/
-├── calculadora/            # calculator
-├── Jogo Da Memória/        # memory game
-├── 1_Lista_Exercicios/     # exercise list
-├── Aula-21-03/ , Aula-28-03/  # class sessions
+```bash
+# console exercise
+javac 1_Lista_Exercicios/EX_3/ExFatorial.java && java -cp 1_Lista_Exercicios/EX_3 ExFatorial
+# Swing app (run its main class)
+javac calculadora/**/*.java && java calculadora.logica.main
 ```
 
 ---
